@@ -1,1 +1,2 @@
 This is my first git practice file.
+bla bla bla from file1
