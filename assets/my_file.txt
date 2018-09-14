@@ -1,2 +1,4 @@
 This is my first git practice file.
 bla bla bla from file1
+localChanges1 changes for rebase.
+
